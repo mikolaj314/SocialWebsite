@@ -1,2 +1,6 @@
 .idea
 *.pyc
+cert.crt
+cert.key
+venv/
+db.sqlite3
